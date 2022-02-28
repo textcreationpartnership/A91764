@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true state and condition of the kingdom of Ireland, sent to the House of Commons from their committee there; whose names are signed thereto, viz. Robert Reynolds, Robert Goodwyn, both members of the said House. Also the true relation of the great victory the Protestants in that kingdom, lately had against the rebels there; sent in a letter by Sir Richard Greenvill, to the said committee, who hath since commended it to the House of Commons. Together with a letter from Sir John Chicester, of great consequence, to Sir John Clotworthy a member of the said House. All which are appointed by the House of Commons to be printed to prevent false copies; and for the true satisfaction of all His Majesties loving subjects. Ordered by the Commons, that these letters, and relation, be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91764</idno>
+            <idno type="STC">Wing T3103</idno>
+            <idno type="STC">Wing R1322</idno>
+            <idno type="STC">Thomason E246_31</idno>
+            <idno type="STC">ESTC R19051</idno>
+            <idno type="EEBO-CITATION">99860555</idno>
+            <idno type="PROQUEST">99860555</idno>
+            <idno type="VID">112678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112678)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true state and condition of the kingdom of Ireland, sent to the House of Commons from their committee there; whose names are signed thereto, viz. Robert Reynolds, Robert Goodwyn, both members of the said House. Also the true relation of the great victory the Protestants in that kingdom, lately had against the rebels there; sent in a letter by Sir Richard Greenvill, to the said committee, who hath since commended it to the House of Commons. Together with a letter from Sir John Chicester, of great consequence, to Sir John Clotworthy a member of the said House. All which are appointed by the House of Commons to be printed to prevent false copies; and for the true satisfaction of all His Majesties loving subjects. Ordered by the Commons, that these letters, and relation, be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Reynolds, Robert, ca. 1601-1661?</author>
+                  <author>Goodwin, Robert, ca. 1601-ca. 1681.</author>
+                  <author>Chichester, John, Sir, 1623-1667.</author>
+                  <author>Greenville, Richard, Sir, 1600-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>March 2. London, printed for Edw. Husbands.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Identified as both Wing R1322 and Wing T3103.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112678:1"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y our four former addreſſes of the <hi>2</hi> of <hi>November, 13</hi> of <hi>December, 17</hi> of <hi>January</hi>; and <hi>2</hi> of <hi>February,</hi> we gave you faithfull accompt of the ſtate of affairs here, as they then ſtood, and by our laſt Letter of the <hi>2</hi> of <hi>February,</hi> we informed you of the Commiſſion ſent to the Lord Marqueſſe and others, to meet with the chiefeſt of the Rebels, and to hear, and receive in writing, what they could ſay or propound; before the coming over of this Commiſſion, many ill Symptomes did appear, but now things are grown to an evident cleer<g ref="char:EOLhyphen"/>neſſe: For upon Munday laſt a Letter was read at the Board, from His Majeſty (without any Secretaries name ſubſcribed,) the effect whereof was to this purpoſe; That His Ma<g ref="char:EOLhyphen"/>jesty took notice, that they, the Lords, Juſtices, and Councell, without His conſent, or Privity, had admitted us to be preſent at their debates, and did require them, not to ſuffer us to be preſent with them any more, as formerly we had been; The Lords, Juſtices, and Councell thereupon reſolved to do accordingly; And on Tueſday morning, ſent Sir <hi>Paul Davis</hi> to our lodging, to acquaint us both with the Letter, and the reſolution they had taken upon it; But becauſe the words of the Meſſage were not full enough, as we conceived, We deſired their Lordſhips to expreſſe themſelves cleerly, whither we ſhould be admitted, or not, For we were but ſervants to the Parliament, and muſt give a ſtrict accompt of our Actions to thoſe which ſent us thither; Thereupon Sir <hi>Paul Davis</hi> returned to the Board, and ac<g ref="char:EOLhyphen"/>quainted their Lordſhips herewith, And after an hour came to us, with a ſecond Meſſage, which we immediately put down in writing, (<hi>viz.</hi>) That the Lords, Juſtices, and Councell, had formerly acquainted us, by him, with a Letter they had received from His Majeſty, That they were reſolved to obey His Majeſties commands; and therefore they could not ad<g ref="char:EOLhyphen"/>mit us any more to be preſent as a Committee.</p>
+            <p>Sir, you will eaſily imagine that affairs are ſteered here by the Court Compaſſe; and if the deſign be to make peace with the Rebels, that ſo this Army may be applicable elſewhere: Our preſence any longer at the Board, will not further that deſign; however, The time we have there ſpent, and the experience gained by that, will perhaps be ſerviceable to you at our return, which we now haſten (as becomes us) all we can, And reſolve to depart hence this week, being retarded only to ſee the Lord <hi>Liſle</hi> in a good Poſture for his hopefull Expedition, be being reſolved to march on Tueſday next. We conceive it very neceſſary to ſend a Ship of ſtrength and truſt to ride in <hi>Bullock</hi>-Road before <hi>Dublyn,</hi> and another of leſſe burthen, to ride before <hi>Drogheda.</hi>
+            </p>
+            <p>Sir, We have to the utmoſt of our weak Abilities, indeavoured to wade through the dangers and difficulties, which on all ſides do attend our imployment here; but that which does exceedingly aſtoniſh us, is, That we have not been honoured with one Letter ſince our coming over.</p>
+            <p>We had almoſt forgot to tell you, That the labour is on both ſides the Sea, to make the Rebels appear ſtrong and conſiderable, and to put difficulties and impediments upon our Military proceedings, the better to bring on a moſt horrid pernitious peace, which all good<g ref="char:EOLhyphen"/>men here do abhorre, and are reſolved to abandon the Kingdom, rather then to be expoſed to an utter extirpation upon the next opportunity, which thoſe bloudy, but inconſiderable vi<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ains can l<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</p>
+            <p>
+               <pb facs="tcp:112678:1"/>You may ſee their in-nate valour by our late victory over them upon Tueſday the ſeventh of <hi>February,</hi> an exact relation whereof made by Sir <hi>Richard Greenvell,</hi> who commanded in chief, we ſend you here incloſed, and you may ſee their inveterate malice, who a week after this Commiſſion came over, and the day appointed for to hear their Complaints, Did combine to make ſlaughter of a Convoy that paſſed by them, without offering them any violence, But were ſhamefully defeated of their expectation, and hath ſo diſheartned them, that we are confident, my Lord <hi>Liſle</hi> ſhall march where he pleaſes, with his <hi>2000</hi> foot, and <hi>300</hi> horſe; and what Religion, or to the Crown of <hi>England,</hi> do thoſe ſhew that adviſe His Majeſty, to a diſhonourable peace, which thoſe miſcreants which will are long (if you do not exceedingly neglect this ſervice) disband, ſtarve, and cut-throats among themſelves.</p>
+            <p>Thus with our moſt humble and hearty Prayers to the Almighty, for an honourable and ſpeedy Accommodation, we humbly take our leaves, and remain</p>
+            <closer>
+               <signed>Your humble and faithfull Servants,
+<list>
+                     <item>
+                        <hi>Robert Reynolds,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goodwyn.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>the <hi>15</hi> of <hi>February. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A Relation concerning the Fight that happen<g ref="char:EOLhyphen"/>ned at RATHCONNELL.</head>
+            <p>BY command from the Lord Marqueſſe of <hi>Ormond,</hi> certain Forces of both Horſe and Foot were ſent unto <hi>Trym,</hi> for the relief of <hi>Athlone,</hi> with a direction unto Sir <hi>Richard Greenvill</hi> to have the chief Command thereof; which Forces arrived at <hi>Trym</hi> on Thurſday 26 <hi>January</hi>; and on Friday morning then following, Sir <hi>Richard</hi> marched thence toward <hi>Athlone</hi> with about 900 Foot, and alſo about 200 Horſe; and that night all lodged at <hi>Athboy.</hi>
+            </p>
+            <p>Saturday the 28, being come nigh unto <hi>Ballinacur,</hi> being a very ſtrong paſſe, we found the Enemy poſſeſſing it with 300 men, having cut off there a Bridge, whereat Sir <hi>Richard</hi> commanded certain Dragooners to force that Paſſe, and alſo ſent a Party of Horſe to ſecond them; which the enemy oppoſed, untill ſome of the Horſe found a place there by, where they leapt over a deep ditch of water; which put them all to ſlight over a Bogge there by: In which eſcape divers of the Rebells were ſlain, and as it is ſaid, alſo one of their Commanders. That night we lodged at and about <hi>Killeenan.</hi>
+            </p>
+            <p>Sunday the 29, marching forwards, 4 of our Horſe Scouts eſpyed 4 Horſe Scouts of the Rebells, on the top of a hill before them; who ſeeing our Scouts, haſtning towards them, withſtood them, being Country Gentlemen of good quality; and being but 4 to 4, they encountred each other a while fairly, with onely their ſwords, untill one of the Rebells had both given and received a wound, and was ſeized on by one of our Scouts; whereat the reſt, being very well mounted, eſcaped away, leaving their con<g ref="char:EOLhyphen"/>fort to be ſlain in the place: And being come nigh <hi>Tobbercormick</hi> (where we lay that night) ſome of our Horſe took a Gentlewoman of ſome quality priſoner, who ſtood on a hill there by, guarded with ſome Muskettiers.</p>
+            <p>Munday the 30, being come within 5 miles of <hi>Athlone,</hi> we took one M. <hi>Richard Dillon</hi> priſoner, who informed Sir <hi>Richard,</hi> That Generall <hi>Preſton</hi> was ſending all
+<pb facs="tcp:112678:2"/>
+the Forces he could make, to hinder our coming to <hi>Athlone,</hi> and therefore wiſhed us to make all the haſte thither we could: Preſently thereon, a Horſe-man of our for<g ref="char:EOLhyphen"/>lorn hope came back, and informed Sir <hi>Richard,</hi> That ſeven Colours of the enemies Forces were then marching towards us. Sir <hi>Richard</hi> then preſently commanded forth more of his Horſe to haſten to ſecond the fore-Troop, which in that Intrim charged the enemy, who retreated to a Bog, where moſt of them might have been out off, had not the care of the Safe-Conduct of the proviſions appointed for the re<g ref="char:EOLhyphen"/>lief of <hi>Athlone</hi> forbidden it. That night we all came ſafe at <hi>Athlone,</hi> where we all ſtayed the next day following.</p>
+            <p>Wedneſday the 31, Sir <hi>Richard</hi> ſent all our Horſe and Foot to quarter at <hi>Kilkenny</hi>-Weſt, four miles thence, untill ſuch time as 300 of the Lord <hi>Rannelaugh's</hi> Regiment, and three hundred of Sir <hi>Michael Earnlyes</hi> Regiment could be drawn thither from their out-Garriſons, to march back with us: And when our Horſe approached nigh unto <hi>Kilkenny,</hi> they diſcovered that it was ſtrongly manned by Sir <hi>James Dillons</hi> Forces, Captain <hi>Thomas</hi> his Troop, and Colonell <hi>Farrell's</hi> Regiment, of the County of <hi>Longford</hi>; whereat Captain <hi>Vaughan,</hi> with ſome of our Horſe, fell into their Quarters, and killed a Captain, and ſome other Officers, and alſo about 50 of their Souldiers, and took many of their Arms, and poſſeſt their Quarters untill Saturday.</p>
+            <p>Saturday the 4 of <hi>Febr:</hi> we all quartered at and about a place called, The Moat, at which time the 600 of the Lord <hi>Rannelaugh's,</hi> and Sir <hi>Michael Earnlyes</hi> Regiments were lodged with ours, where Captain <hi>Vaughan</hi> found in his Quarters an Engliſh mans wife, who told him, that the generall report of the Countrey was, That the Iriſh had gathered all the Forces they could get together, and were confident to com<g ref="char:EOLhyphen"/>paſſe us in on every ſide, and to cut us all off, reſolving and vowing not to leave a man of us alive: ſaying alſo, That if we ſhould get the Victory, the heart of their Wars would be broken, for that there was an ancient Propheſie much talked of among the Iriſh, That that ſide which ſhould win the Battell at <hi>Rathconnell,</hi> ſhould be Conquer<g ref="char:EOLhyphen"/>ers of the Kingdom; it being a Tradition ſuperſtitiouſly held amongſt the Native Iriſh.</p>
+            <p>On Munday the 5 and 6, we marched towards <hi>Trym,</hi> meeting with no oppoſiti<g ref="char:EOLhyphen"/>on, but very foul weather and wayes, which greatly diſheartned the Souldiers, and killed divers of them; in which time we took ſeverall of the Countrey people, who all confirmed the former reports of the enemies Forces, and intentions: Sir <hi>Richard Greenvill</hi> notwithſtanding ſaid, He was reſolved not to march a foot out of his way, were the enemy never ſo ſtrong.</p>
+            <p>Tueſday the 7, proceeding in our March, we underſtood of divers Troops of Horſe and Foot that daily had followed our Rear, which then was guarded by a Troop of Horſe commanded by Lievtenant <hi>Hatcher,</hi> who charged certain Forces of the enemy which were advanced ſomewhat nigh him, and then cut off about twenty of them. Afterwards, about 11 of the clock the ſame day, being come nigh <hi>Mollingar,</hi> we took a priſoner, who told us that the Iriſh Forces poſſeſt our Paſſe of <hi>Rathconnell,</hi> a mile before us, being very ſtrong in number of men, and the prime Officers and Gentry of of the Countrey. Whereupon Sir <hi>Richard</hi> haſtened the advance of his Forces to<g ref="char:EOLhyphen"/>wards the foreſaid Paſſe; and being come nigh in view of it, ſaw the Paſſe to be ſome<g ref="char:EOLhyphen"/>what narrow, and that it was out off by a broad and deep Trench, being compaſt in on each ſide with great Boges, and having adjoyning to it on a very ſteep hill a ſtrong Caſtle, and divers other Works well manned, by which there appeared no paſſage for
+<pb facs="tcp:112678:2"/>
+either Horſe or Foot: Then did Sir <hi>Richard</hi> draw all his Forces into Battell-Order before it, which conſiſted of a forlorn hope of 50 Muskettiers, commanded by Liev<g ref="char:EOLhyphen"/>tenant <hi>Dikes</hi>; and two Wings of ſixty ſhot more, commanded by two Enſignes (one of them a coward) the forlorn hope being ſeconded with a Diviſion of 200 Musket<g ref="char:EOLhyphen"/>tiers, which was commanded by Sir <hi>John Sherlecke,</hi> which was the Van-Guard of our little Army; whereof, the firſt Diviſion was led by Captain <hi>Vern<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> and Lievte<g ref="char:EOLhyphen"/>nant <hi>Oliver</hi>; and the ſecond Diviſion of it, by Lievtenant <hi>Williams</hi>; and alſo the third Diviſion by Major <hi>Morris.</hi> The reſt of the Forces conſiſted of three Diviſions of Pikes flanckt with ſhot, which were for the Battell of the Army, each containing about 300 men; whereof, the firſt was led by Captain <hi>Honywood</hi>; the ſecond by Ma<g ref="char:EOLhyphen"/>jor Sir <hi>Abraham Shipman</hi>; the third by Sir <hi>Michael Earnely</hi>: after which followed another Diviſion of 200 Muskettiers, commanded by Major <hi>Fortelcue</hi>; which was for the Rear-Guard; whoſe Rear was guarded by a forlorn hope of 50 Muskettiers, commanded by Likewiſe thoſe Foot were flanckt with three Divi<g ref="char:EOLhyphen"/>ſions of Horſe; whereof Captain <hi>Vanghan</hi> commanded the Van-Guard; Lievtenant <hi>Rogers</hi> the Battell; and Lievtenant <hi>Hatcher</hi> the Rear-Guard. Likewiſe before the Van-Guard of the Feet, marched the Lord <hi>Rannelaugh,</hi> leading a Troop of Volun<g ref="char:EOLhyphen"/>tiers. Likewiſe for the forlorn hope of the Rear Captain <hi>Pate</hi> commanded 40 Dra<g ref="char:EOLhyphen"/>gooners, which were alſo aſſiſted with 20 Fire-locks: which done ſeeing not onely a ſtrong enemy of above 2000 Foot, and ſix Horſe Troops before us, and others at leaſt 600 on our right hand, and 600 more of <hi>Longford</hi> men at a diſtance on our left hand, upon the Boggs, not farre off, from which were haſtning up to ſecond their, as it is ſaid, 800 of the Realies; and then, unknown to us, there was waiting upon our Rear 500 more, which then newly poſſeſt <hi>Mollingar,</hi> about half a mile behinde us, to hinder our Retreat. Then, for to begin the Play, the forlorn hope of 50 Shot, ad<g ref="char:EOLhyphen"/>vanced on right towards the Paſſe, and ſo likewiſe did the left Wing of Shot, to ſlank that, the right Wing ſtaying behinde, contrary to command, whoſe ground notwith<g ref="char:EOLhyphen"/>ſtanding was made good by others: Thoſe together being advanced as farre as they could, were ſeconded by ſeverall Diviſions drawn out of the Van-Guard; which alſo diſputing it with the enemy, without any apparent good ſucceſſe, Sir <hi>Richard</hi> was enforced before the front of the reſt of the Forces, to ſay, There was no other reme<g ref="char:EOLhyphen"/>dy now, but we muſt reſolve to tarry it, or die, becauſe he ſaw great numbers of men approaching towards our right hand, and likewiſe as many towards our left hand; which if they ſhould come to joyn with thoſe before us, would be too ſtrong for us; therefore now of neceſſity all muſt uſe their beſt endeavours to force thorow the Paſſe upon the enemy, and by ſo doing of it reſolutely, there was no doubt of good ſuc<g ref="char:EOLhyphen"/>ceſſe: Whereunto all men ſeemed very willing, and ſo accordingly the three Diviſi<g ref="char:EOLhyphen"/>ons of the Battell advanced cheerfully, with their Colours flying, to force their way, Sir <hi>Richard</hi> keeping upon reſerve 250 Muskettiers; which three laſt Diviſions being come at puſh of Pike with the Rebells that defended that Paſſe; and Sir <hi>Michael Earnly</hi> eſpying the advance of the <hi>Longford</hi> men on our left hand, marched towards them, and then preſently received a Charge by the Horſe that Captain <hi>Brian</hi> com<g ref="char:EOLhyphen"/>manded, which by our Shot was repulſed, and <hi>Brian</hi> himſelf ſhot dead; and that gave a ſtop to the <hi>Longford</hi> men. In the Interim of this Conflict, many of the For<g ref="char:EOLhyphen"/>ces from off the Caſtle were running ſpeedily to charge our right Wing of Shot; which Sir <hi>Richard</hi> repulſed, by ſending amongſt them more Shot from out of his laſt reſerve: Which ſudden fury being ſtopt, and the ſervice continuing violent on all
+<pb facs="tcp:112678:3"/>
+ſides for two hours time, with a doubtfull ſucceſſe: Sir <hi>Richard</hi> ſent forth all the re<g ref="char:EOLhyphen"/>mainder of the Foot, to aſſiſt thoſe at the Paſſe; during which Skirmiſh, Lievtenant <hi>Rogers</hi> did at ſeverall times very earneſtly deſire Sir <hi>Richard</hi> to give him leave to at<g ref="char:EOLhyphen"/>tempt to force a way thorow that Paſſe, with the Horſe that he commanded; where<g ref="char:EOLhyphen"/>to at laſt Sir <hi>Richard</hi> gave him leave, and wiſht him good ſpeed; whereat he willing<g ref="char:EOLhyphen"/>ly departed, and haſted to finde his way: And being come at the Banck and ditch of the Paſſe, found no poſſible means there of getting thorow; whereat Major <hi>Morris</hi> called unto Lievtenant <hi>Rogers,</hi> ſaying, He had found a place for his Horſe to paſſe tho<g ref="char:EOLhyphen"/>row; then that Troop haſted unto it, which <hi>Edward Roſcarrocke</hi> of the ſaid Troop, firſt rid thorow, the Lievtenant and the reſt of the Troop cloſely followed; and being gotten over, the forlorn hope Troop, led by Cornet <hi>Dixsay,</hi> followed them; and then preſently did thoſe our Ho<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe charge the enemies Horſe that were before them; who being not willing to receive them, began all to run away: in the purſuit where<g ref="char:EOLhyphen"/>of, Lievtenant <hi>Rogers,</hi> with the Troop he commanded, chanced to follow a Troop, in whoſe Rear was taken priſoner Colonell <hi>Anthony Preſton,</hi> the eldeſt ſon of Generall <hi>Preſton</hi>; and alſo there were ſlain many others of the ſaid Troop. At the ſame time Cornet <hi>Dixſay</hi> commanding the forlorn hope, purſued another Horſe Troop, killed many of them, and found the dead body of Captain <hi>Bryan,</hi> who was lately fled from Sir <hi>Thomas Lucas</hi> Troop; whoſe head was there cut off, and brought away by Cor<g ref="char:EOLhyphen"/>net <hi>Dixſey</hi>; our Foot having been at leaſt two hours before at handy blows, and throwing ſtones with the enemy, our men with one accord cheerfully came on upon thoſe that manned the Trenches, which made them alſo reſolutely run away: which ſudden change drew after them all the reſt of Our Forces: and being poſſeſt of their works and hill, Sir <hi>Richard</hi> gave charge unto Sir <hi>John Sherlocke,</hi> That he with all con<g ref="char:EOLhyphen"/>vement ſpeed ſhould draw, and keep together his men in good order upon that ground, and furniſh all his men with Munition, while he himſelf, with the Horſe, purſued the <hi>Longford</hi> men flying away; and then preſently did Sir <hi>Richard,</hi> Captain <hi>Vaughan,</hi> and Lievtenant <hi>Rogers,</hi> with about 40, or 50 Horſe purſue them, wherein it chanced, That Captain <hi>Vaughan,</hi> with a part of thoſe Horſe, taking another way, was guided by Noble Sir <hi>Charles Coct</hi> that wayward that the enemy was eſcaped; and at laſt overtook the greateſt part of them, and there killed, as by them all is believed, at leaſt 200 of them; ſo that we verily believe, there were killed in all nigh 250: During which purſuit, our Foot remaining about the enemies Caſtle, ſearching, as they uſually do, all holes found in the Caſtle 8 Enſignes of the Rebells: and alſo Cap<g ref="char:EOLhyphen"/>tain <hi>Betagh,</hi> Captain <hi>Dowdall,</hi> and Lievtenant <hi>Elmore,</hi> and three other of their En<g ref="char:EOLhyphen"/>ſigns, were found abroad among the dead bodies.</p>
+            <p>In this conflict of our men was killed in that place, but onely three ſouldiers, and about twenty Officers, and Souldiers hurt, whereof Serjeant Major <hi>Shipman,</hi> who then ſhewed himſelf a very valiant Souldier, was ſhot about two Inches deep, nigh the breaſt, and yet his Doublet not broken, Captain <hi>Verney</hi> ſhot on his breaſt, and yet not wounded, Captain <hi>Loftus</hi> had the Tip of his Ear a little hurt with a ſhot, Liev<g ref="char:EOLhyphen"/>tenant <hi>Oliver</hi> ſhot in the breaſt, and not wounded, Lievtenant <hi>Moal</hi> ſhot in the fore<g ref="char:EOLhyphen"/>head, and but ſlightly hurt, Lievtenant <hi>Bingham</hi> ſhot in the back, and his skin not hurt; which done, our forces marched thence, and lodged that night at <hi>Maſiſtown,</hi> and in the field before the forces were drawn into their quarters, Sir <hi>Richard</hi> cauſed a Miniſter in the head of all the Troops, publikely to give God thanks (every man kneeling) for the victory, publikely ſaying, That it was the work onely of God, and
+<pb facs="tcp:112678:3"/>
+not of men, which every man ſeemed thankfully to acknowledge. This night we underſtood there was ſlain in the fight, Colonell <hi>Patrick, Plunckot,</hi> Captain <hi>Bryan,</hi> and Sir <hi>Thomas Nugents</hi> onely ſonne and heir, Captain <hi>John Nugent</hi> of <hi>Balliniſcarry,</hi> Captain <hi>Adam Cuſack</hi> a Parliament man, Captain <hi>Marcas Geoghagan,</hi> Captain <hi>Roger Darcy</hi> of <hi>Rattin.</hi>
+            </p>
+            <p>Alſo the names of the Enemies Commanders, that were at the battle, are Serjeant Major Generall, <hi>James Preston,</hi> Colonell <hi>Anthony Preſton,</hi> Colonell <hi>Mac Thomas Fitz-Gerald,</hi> Colonell <hi>Peïrce Fitz-Gerald,</hi> Sir <hi>Luke Fitz-Gerald,</hi> Colonell <hi>Roger Moore,</hi> Colonell <hi>Terrell,</hi> Colonell <hi>Walter Nugent,</hi> Colonell <hi>Mulmore ô Realy,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Brian Farrell.</hi> Sir <hi>Thomas Nugent,</hi> the Lord of <hi>Trimelſton.</hi>
+            </p>
+            <p>Likewiſe the names of the ſuperiour Officers of our Army, are theſe, The Lord Viſcount <hi>Rannelaugh,</hi> Sir <hi>Richard Greenvile,</hi> Colonell Sir <hi>Michael Earnely,</hi> Colonell Sir <hi>John Sherlock,</hi> Lievtenant Colonell <hi>Gibbs,</hi> Serjeant Major Sir <hi>Abraham Shipmaen,</hi> Serjeant Major <hi>Aſhly,</hi> Serjeant Major <hi>Morris,</hi> Serjeant Major <hi>Forteſcue,</hi> Captain <hi>Honywood,</hi> Captain <hi>Lucas,</hi> Captain <hi>Verney,</hi> Captain <hi>Sands,</hi> Captain <hi>Loftus,</hi> Captain <hi>Nichols,</hi> Captain <hi>Palmer,</hi> Sir <hi>William Bronkett,</hi> Captain <hi>Vaughan,</hi> Captain <hi>Banger,</hi> Captain <hi>Gee,</hi> Lievtenant <hi>Oliver</hi>; Alſo for the Horſe, Captain <hi>Vaughan,</hi> Lievtenant <hi>Hatcher,</hi> and for Dragooners, Captain <hi>Pate</hi>; All which Officers did excellently per<g ref="char:EOLhyphen"/>form their ſervices, as did all the inferiour Officers, excepting onely Enſign <hi>Lake.</hi>
+            </p>
+            <p>That night Sir <hi>Richard Greenvile,</hi> in giving out his orders for the watch, gave out for that nights watch-word, the word (<hi>Revenge,</hi>) and alſo for the field, the word (<hi>Justice,</hi>) which was correſpondent to Gods bleſſing in the Victory.</p>
+            <p>Wedneſday the 8, we lodged at <hi>Maſiſtowne.</hi>
+            </p>
+            <p>Thurſday the 9, all forces quartered about <hi>Tryme,</hi> from whence they marched the next day into their former Garriſons.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My dear Brother,</salute>
+            </opener>
+            <p>We are at length come out if our miſerable impriſonment, where the ſufferings of our Ears and Eyes, Did not a little adde to what we alſo felt, in a great proportion, by ſeeing and hearing the miſerall Spectacles, and ſad cryes of our diſtreſſed poor Souldiers, God be thanked, All that were left of us, are come hither in much ſafety, and by a courſe much better, then if we had not incountred with ſuch difficulties: For when we were come a mile on this ſide <hi>Mullingar,</hi> at <hi>Reconnell,</hi> where the enemy had made himſelf very ſtrong in good works, They there being <hi>6000</hi> foot, and <hi>10</hi> or <hi>12</hi> Troops, kept the paſſage againſt our men, whoſe number were not above a thouſand foot, beſides my Lord Preſidents men, be brought from <hi>Connaught</hi> with them, and whoſe good fortune it was to have the Van, and give the de<g ref="char:EOLhyphen"/>feat: Herein Colonell <hi>Greenvill</hi> hath behaved himſelf very well; We have killed of the ene<g ref="char:EOLhyphen"/>my <hi>500</hi> on the place, amongſt whom, is the great Commander <hi>Plunker,</hi> and another Colonell; We have taken <hi>Preſtons</hi> Sonne (who was alſo a Colonell) Priſoner, and <hi>Bryan,</hi> that was ſent from you hither, and proved <hi>Appoſtate</hi> hath loſt his head in the skirmiſh. We have many Cap<g ref="char:EOLhyphen"/>tains, and other inferiour Officers, Priſoners; alſo have brought home nine Enſignes. If it is be proſecuted effectually, as I hope it will, The power and courage of that Rebellious breed, muſt be exceedingly leſſened.</p>
+            <p>But alas Brother, our extremities for want of victuall is beyond Imagination, And if pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:112678:4"/>
+remedy be not provided effectually, all the Officers will over to the King, quit the Kingdom, and the whole Deſign muſt be loſt: Now we are through the concurrance of moſt evident manifeſtations of Gods goodneſſe in a probable way of reducing theſe miſ-creants for ever; but if we are loſt, as we muſt be by pretermitting this preſent ſupply, ten times over the expence If both bloud and Treaſure, which will now in appearance finiſh the work, will not then put us in the State we are now poſſeſt off. You cannot imagine to what heights all ſorts of people are come unto, being made deſperate by the ſufferings they have undergone, and little hopes of being relieved, as bad as things goe. My Lord <hi>Liſle,</hi> with Colonell <hi>Monck,</hi> and <hi>Cromwell,</hi> having <hi>1500</hi> foot, and <hi>300</hi> horſe, ſome great and field Peeces, Bend their courſe towards <hi>Athy,</hi> which will induce <hi>Preſton</hi> either to fight with them, or quit <hi>Kilkenny.</hi> At the ſame time my Lord <hi>More</hi> and <hi>Titchbourn,</hi> intend to go forth with all their forces to <hi>Eaſt</hi> and <hi>Weſt Meath,</hi> and <hi>Cavan;</hi> God ſend us his countenance and favour, whilſt we are in ſuch neglects from man.</p>
+            <p>The King hath ſent expreſſe order, That your honeſt Committees ſhall not be admitted to the Counſell Table, as formerly; and I fear they intend to go hence immediately, God knows what inconveniency will ariſe by their coming away; though I muſt confeſſe, They have but poor incouragement to ſtay. We bear you have had good ſucceſſe lately in <hi>Killultagh,</hi> and at <hi>Enneskellen;</hi> but withall, That your want of Victuall, is like to put a ſoon end unto all con<g ref="char:EOLhyphen"/>troverſies, I am ſure you hear from thence more particularly then we can.</p>
+            <p>When you repreſent your own neceſſities, fail not to remember ours, and God put you into the Poſture, to miniſter help unto us, otherwiſe, let's know immediately, That we may not dye in a ditch, and ſtarve, which is the condition, threatning us all. I ſhall be more particular in my next, if God continue us a being; but now can adde no more, onely my moſt humble Service to my deer Siſter, and that I am</p>
+            <closer>
+               <signed>Your faithfull Servant, and affectionate Brother <hi>John Chiceſter.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>the <hi>14</hi> of <hi>Feb. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I forgot to tell you, that Captain <hi>Vaughan,</hi> who brought this news, was Knighted by the Juſtices, upon the report of it; And that my Lord hath left ſufficient ſtrength in the Caſtles of <hi>Athlone Roſconian,</hi> and the Boil of the old Souldiers, who ſo long as their victuall can laſt, will certainly give a good accompt of thoſe ſtrengths.</p>
+            </postscript>
+            <trailer type="direction">For Sir <hi>John Clotworthy</hi> Knight, in Caſtle-yard, in <hi>Holborne.</hi>
+            </trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
